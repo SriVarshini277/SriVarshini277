@@ -3,16 +3,26 @@
 <h3 align="center">🎓 Graduate Student 📊 Aspiring Data Scientist 💻 Dotnet Developer</h3>
 
 ## 👩‍💻 About Me
+I'm a data enthusiast transitioning from full-stack development to the exciting world of machine learning, statistical modeling, and applied AI. Currently pursuing my Master's in Analytics at Georgia Tech (OMSA), I'm building on my software engineering foundation to solve complex problems through data-driven insights.
 
-I am a motivated graduate student with a strong foundation in **data science, machine learning, and analytics**. I enjoy working with real‑world datasets to uncover insights, build predictive models, and develop data‑driven solutions. 
+🎓 Education
 
-I am continuously learning and building projects that strengthen my problem‑solving skills and practical understanding of data‑centric systems.
+- MS in Analytics | Georgia Institute of Technology (OMSA) | In Progress
+- BE in Computer Science Engineering | Completed
 
-- 🌱 I am particularly interested in **machine learning, statistical modeling, and applied AI**.
+💼 Professional Background
 
-- 💬 Ask me about **Machine Learning**
+- 2 years as a Full-Stack .NET Developer (front-end & back-end)
+- Strong foundation in software development, system design, and problem-solving
+- Currently expanding my expertise in data science and machine learning
 
-- 📫 How to reach me **srivarshini277@gmail.com**
+🔬 Areas of Interest
+- 🌱 Machine Learning - Predictive modeling, feature engineering, model optimization
+- 📊 Statistical Modeling - Hypothesis testing, regression analysis, time series forecasting
+- 🤖 Applied AI - Real-world applications of ML/AI to solve business problems
+- 📈 Data Analytics - Exploratory data analysis, visualization, and actionable insights
+
+📫 How to reach me **srivarshini277@gmail.com**
 <br/>
 
 <h3 align="left">Connect with me:</h3>
